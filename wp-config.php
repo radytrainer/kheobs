@@ -19,6 +19,9 @@
  */
 
 // ** Database settings - You can get this info from your web host ** //
+// define('WP_HOME', 'http://localhost:8000');
+// define('WP_SITEURL', 'http://localhost:8000');
+
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'kheobs_db' );
 
